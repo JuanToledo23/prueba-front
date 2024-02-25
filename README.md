@@ -236,11 +236,11 @@ En este archivo podemos encontrar todas las remesas que están en la lista, solo
 
 ## Descripción del proyecto
 
-Utilice el framework ReacJS con TypeScript, ya que desde mi punto de vista es muy flexible y nos permite crear una organizada a nuestra medida eso combinado con buenas prácticas de arquitectura dan como resultado un proyecto escalable y fácil de entender y adicional utilizando TypeScript [https://www.typescriptlang.org/] para tener definido todos los tipos de valores que se utilizan en la app.
+Utilice el framework ReacJS con TypeScript, ya que desde mi punto de vista es muy flexible y nos permite crear una organizada a nuestra medida eso combinado con buenas prácticas de arquitectura dan como resultado un proyecto escalable y fácil de entender y adicional utilizando [TypeScript](https://www.typescriptlang.org/) para tener definido todos los tipos de valores que se utilizan en la app.
 
 Puede que se vean bastantes cosas, pero al momento de crear el build de la aplicación tan solo pesa 501KB.
 
-Se utilizó (Vite)[https://es.vitejs.dev/] como servidor local y para la creación del proyecto.
+Se utilizó [Vite](https://es.vitejs.dev/) como servidor local y para la creación del proyecto.
 
 Se utilizó una estructura atómica, manteniendo los componentes y recursos organizados, tratando de tener los átomos dentro de sus respectivas carpetas, solo teniendo una carpeta principal de "components" para los componentes universales.
 
@@ -257,7 +257,7 @@ Se implementó Material UI solo para poder utilizar el componente de alert.
 
 ## Despliegue
 
-Adicional a esta prueba técnica me tomé la libertad de desplegar la aplicación en (Firebase)[https://firebase.google.com/?hl=es] solo para que se pudiera consultar la aplicación de manera sencilla y demostrar un poco mis conocimiento sobre Firebase.
+Adicional a esta prueba técnica me tomé la libertad de desplegar la aplicación en [Firebase](https://firebase.google.com/?hl=es) solo para que se pudiera consultar la aplicación de manera sencilla y demostrar un poco mis conocimiento sobre Firebase.
 
 En la siguiente URL podemos consultar el proyecto desplegado:
 
